@@ -27,6 +27,6 @@ I'm Ayush Gupta from India, and I do content, at @madmecodes YT, on Development,
 <!-- add resume link here-->
 *I'm in my first year(as of 2023) Will update as i progress...
 
-## Example of work ([full detail at YT](https://www.youtube.com/@MadmeCodes)):
+## Example of Work
 
 
