@@ -21,8 +21,8 @@ I'm Ayush Gupta from India, and I do content, at @madmecodes YT, on Development,
 | Skills        | Working On           | Future Stuff  |
 | ------------- |:-------------:| -----:|
 | MERN  | DSA | AI/ML
-| Redux    |  Projects & OSS       |  Devops |
-| React native |  DevRel   |    SystemD|
+| Redux,native    |  Projects & OSS       |  Devops |
+| Linux |  DevRel   |    SystemD|
 
 <!-- add resume link here-->
 *I'm in my first year(as of 2023) Will update as i progress...
