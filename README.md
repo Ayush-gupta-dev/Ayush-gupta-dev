@@ -1,4 +1,4 @@
-![Banner](https://github.com/Ayush-gupta-dev/Ayush-gupta-dev/blob/main/bannerHeavy.png)
+![Banner](https://github.com/Ayush-gupta-dev/Ayush-gupta-dev/blob/main/bannergitbuild.png)
 
 ## [Ayush Gupta (connect with me)](https://bio.link/ayushbio)
 I'm Ayush Gupta from India, and I do content, at @madmecodes YT, on Development,Dsa and DevRel.
