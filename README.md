@@ -1,4 +1,4 @@
-![Banner](https://github.com/Ayush-gupta-dev/Ayush-gupta-dev/blob/main/Where%20logic%20meets%20creativity!%20(4).png)
+![Banner](https://github.com/Ayush-gupta-dev/Ayush-gupta-dev/blob/main/bannerHeavy.png)
 
 ## [Ayush Gupta (connect with me)](https://bio.link/ayushbio)
 I'm Ayush Gupta from India, and I do content, at @madmecodes YT, on Development,Dsa and DevRel.
