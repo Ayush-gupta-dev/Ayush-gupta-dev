@@ -1,7 +1,17 @@
-![Banner](https://github.com/Ayush-gupta-dev/Ayush-gupta-dev/blob/main/bannergitbuild.png)
+![Banner](https://github.com/Ayush-gupta-dev/Ayush-gupta-dev/blob/main/bannergitbuildcompress.png)
 
 ## [Ayush Gupta (connect with me)](https://bio.link/ayushbio)
 I'm Ayush Gupta from India, and I do content, at @madmecodes YT, on Development,Dsa and DevRel.
+
+| Skills        | Working On           | Future Stuff  |
+| ------------- |:-------------:| -----:|
+| MERN  | DSA | AI/ML
+| Redux,native    |  Projects & OSS       |  Devops |
+| Linux |  DevRel   |    SystemD|
+
+## Example of Work
+
+<!-- add resume link here-->
 <!--
 ## Skills and experience
 <li> MERN (Mongo,express,react,node)</li>
@@ -17,16 +27,3 @@ I'm Ayush Gupta from India, and I do content, at @madmecodes YT, on Development,
 <li>Devops</li>
 <li>SystemD</li>
 -->
-
-| Skills        | Working On           | Future Stuff  |
-| ------------- |:-------------:| -----:|
-| MERN  | DSA | AI/ML
-| Redux,native    |  Projects & OSS       |  Devops |
-| Linux |  DevRel   |    SystemD|
-
-<!-- add resume link here-->
-*I'm in my first year(as of 2023) Will update as i progress...
-
-## Example of Work
-
-
