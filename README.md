@@ -1,7 +1,10 @@
 ![](https://github.com/Ayush-gupta-dev/Ayush-gupta-dev/blob/main/bannergitbuildcompress.png)
 
-## [Ayush Gupta (connect with me)](https://bio.link/ayushbio)
-### I'm Ayush Gupta from India, and I do content, [at @madmecodes YT](https://www.youtube.com/@MadmeCodes), on Development, Dsa and DevRel.
+## [Check out my work and and connect with me!](https://ayushguptadev.in)
+#### Hi I'm Ayush Gupta a  full stack developer from India, documenting my learning  [at @madmecodes](https://www.youtube.com/@MadmeCodes).
+I strongly believe in the fact "knowing something about everything and everything about something!" 
+[(All my links)](https://bio.link/ayushbio)
+
 
 | Skills        | Working On           | Future Stuff  |
 | ------------- |:-------------:| -----:|
