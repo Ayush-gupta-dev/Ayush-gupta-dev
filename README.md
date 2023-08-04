@@ -11,7 +11,8 @@
 | Javascript |  Typescript   |    GameDev|
 
 ## Example of Work
-
+[<img src="https://github.com/Ayush-gupta-dev/Ayush-gupta-dev/blob/main/Untitled%20design%20(41).png" width="300" 
+/>](https://www.youtube.com/watch?v=Rv97Ynz1Btc&t=3s)
 <!-- add resume link here-->
 <!--
 ## Skills and experience
