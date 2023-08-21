@@ -1,7 +1,7 @@
 <!--
 ![](https://github.com/Ayush-gupta-dev/Ayush-gupta-dev/blob/main/bannergitbuildcompress.png)
 -->
-![](https://github.com/Ayush-gupta-dev/Ayush-gupta-dev/blob/main/Develop.png)
+![](https://github.com/Ayush-gupta-dev/Ayush-gupta-dev/blob/main/Develop%20(1).png)
 
 ## [Check out my work and and connect with me!](https://ayushguptadev.in)
 #### Hi I'm Ayush Gupta a  full stack developer from India, documenting my learning  [at @madmecodes](https://www.youtube.com/@MadmeCodes).
