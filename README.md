@@ -2,7 +2,6 @@
 
 ## [Check out my work and and connect with me!](https://ayushguptadev.in)
 #### Hi I'm Ayush Gupta a  full stack developer from India, documenting my learning  [at @madmecodes](https://www.youtube.com/@MadmeCodes).
-I strongly believe in the fact "knowing something about everything and everything about something!" 
 [(All my links)](https://bio.link/ayushbio)
 
 
