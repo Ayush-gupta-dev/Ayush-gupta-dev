@@ -15,8 +15,10 @@
 | Linux |  DevRel   |    SystemD|
 | Javascript |  Typescript   |    GameDev|
 
+[![An image of @ayushguptadev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushguptadev)](https://holopin.io/@ayushguptadev)
+
 ## Example of Work
-[<img src="https://github.com/Ayush-gupta-dev/Ayush-gupta-dev/blob/main/Untitled%20design%20(41).png" width="300" 
+[<img src="https://github.com/Ayush-gupta-dev/Ayush-gupta-dev/blob/main/Untitled%20design%20(41).png" width="250" 
 />](https://www.youtube.com/watch?v=Rv97Ynz1Btc&t=3s)
 <!-- add resume link here-->
 <!--
