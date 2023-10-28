@@ -18,8 +18,16 @@
 [![An image of @ayushguptadev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushguptadev)](https://holopin.io/@ayushguptadev)
 
 ## Example of Work
-[<img src="https://github.com/Ayush-gupta-dev/Ayush-gupta-dev/blob/main/Untitled%20design%20(41).png" width="250" 
-/>](https://www.youtube.com/watch?v=Rv97Ynz1Btc&t=3s)
+<div align="left">
+  <a href="https://www.youtube.com/watch?v=Rv97Ynz1Btc&t=3s">
+    <img src="https://github.com/Ayush-gupta-dev/Ayush-gupta-dev/blob/main/Untitled%20design%20(41).png" width="250" alt="Image 1">
+  </a>
+   &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=L6OYTkpkcac&t=1s">
+    <img src="https://github.com/Ayush-gupta-dev/Ayush-gupta-dev/blob/main/TrueText.png" width="250" alt="Image 2">
+  </a>
+</div>
+
 <!-- add resume link here-->
 <!--
 ## Skills and experience
